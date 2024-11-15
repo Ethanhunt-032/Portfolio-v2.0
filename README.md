@@ -24,14 +24,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/Ethanhunt-032/Profolio-v2.0/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/Ethanhunt-032/Portfolio-v2.0/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Ethanhunt-032/Profolio-v2.0/issues">Request Feature</a>
+    <a href="https://github.com/Ethanhunt-032/Portfolio-v2.0/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ethanhunt-032](https://github.com/Ethanhunt-032/Profolio-v2.0). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ethanhunt-032](https://github.com/Ethanhunt-032/Portfolio-v2.0). Thanks!
 
 ## Built With
 
