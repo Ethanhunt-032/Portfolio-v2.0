@@ -13,7 +13,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 <!-- [![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com) &nbsp; -->
-[![forthebadge](https://forthebadge.com/images/badges/code-it-test-it-break-it.svg)](https://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://forthebadge.com)
 
 </center>
 
