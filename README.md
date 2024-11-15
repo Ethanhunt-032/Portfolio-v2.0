@@ -9,12 +9,9 @@
 <br/>
 
 <center>
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-<!-- [![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com) &nbsp; -->
 [![forthebadge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://forthebadge.com)
-
 </center>
 
 <h3 align="center">
