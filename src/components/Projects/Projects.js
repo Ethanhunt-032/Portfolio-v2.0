@@ -32,7 +32,7 @@ function Projects() {
                       providing an engaging user experience. 
 It is optimized for both desktop and mobile devices, ensuring accessibility and performance across platforms."
               ghLink="https://github.com/Ethanhunt-032/Portfolio-v2.0"
-              demoLink="https://Portfolio-teja-dayana.vercel.app/"
+              demoLink="https://portfolio-teja-dayana.vercel.app/"
             />
           </Col>
      
