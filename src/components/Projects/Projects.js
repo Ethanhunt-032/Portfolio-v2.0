@@ -6,6 +6,7 @@ import Portfolio from "../../Assets/Projects/Portfolio.png";
 import Spasso from "../../Assets/Projects/Spasso_img.png";
 import ImgCaption from "../../Assets/Projects/caption_img.png";
 import StopWatch from "../../Assets/Projects/stopwatch_img.png";
+import Textsummry from "../../Assets/Projects/TextSummarizer.png";
 import AutoStreetLight from "../../Assets/Projects/Autostreetlight_img.png";
 import toDo from "../../Assets/Projects/Todo.png";
 import Scoliosis from "../../Assets/Projects/Scoliosis.png";
